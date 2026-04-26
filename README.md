@@ -1,6 +1,6 @@
 # Auto Portable Python Deployer
 
-![License: MIT](https://img.shields.io/github/license/rookiemann/auto-portable-python-deployer) ![Platform: Windows](https://img.shields.io/badge/Platform-Windows%2010%2F11-blue) ![Python: 3.10-3.14](https://img.shields.io/badge/Python-3.10--3.14-green)
+![License: MIT](https://img.shields.io/github/license/aivrar/auto-portable-python-deployer) ![Platform: Windows](https://img.shields.io/badge/Platform-Windows%2010%2F11-blue) ![Python: 3.10-3.14](https://img.shields.io/badge/Python-3.10--3.14-green)
 
 A self-bootstrapping tool that generates **fully portable, zero-install Python deployment packages** for Windows. No system Python required. No admin rights. No PATH modifications. Just double-click and go.
 
@@ -40,7 +40,7 @@ Generated packages follow this exact same proven pattern.
 ### First Run (Setup)
 
 ```
-git clone https://github.com/rookiemann/auto-portable-python-deployer.git
+git clone https://github.com/aivrar/auto-portable-python-deployer.git
 cd auto-portable-python-deployer
 install.bat
 ```
@@ -203,7 +203,7 @@ This pattern is proven in production across multiple projects and handles all th
 
 ## Contributors
 
-- **[@rookiemann](https://github.com/rookiemann)** — Creator and maintainer
+- **[@aivrar](https://github.com/aivrar)** — Creator and maintainer
 - **Claude (Anthropic)** — AI pair programmer, architecture design and implementation
 
 ---
